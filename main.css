@@ -1,0 +1,50 @@
+body{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#container{
+	padding:2px; 
+	border:2px solid #ffff88;	
+	margin:2px;
+	background-color: #ffff88;
+}
+.board{
+	padding:15px 30px;
+}
+.commentContainer{
+	padding: 8px;
+	border: 2px solid white;
+	margin:20px 8px;
+	background-color:white;
+}
+.commentText{
+	padding:15px 8px;
+}
+button{
+	padding:8px;
+	margin:2px 5px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color:white;
+	border-radius: 8px;
+}
+.buttonPrimary{
+	background-color:#428bca;
+	border:2px solid #428bca;
+}
+.buttonDanger{
+	background-color:#d9534f;
+	border:2px solid #d9534f;
+}
+.buttonSuccess{
+	background-color:#5cb85c;
+	border:2px solid #5cb85c;
+}
+.buttonInfo{
+	background-color: #17a2b8;
+	border: 2px solid #17a2b8;
+}
+textarea{
+	display: block;
+	margin-bottom: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px; 
+}
